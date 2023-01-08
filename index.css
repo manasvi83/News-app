@@ -51,8 +51,9 @@ body::-webkit-scrollbar-thumb:hover {
   align-items: center;
 }
 .loading h1 {
-  font-weight: 900;
+  font-weight: 400;
   font-size: 100px;
+  text-align: center;
 }
 .spacer {
   height: 57px;
