@@ -52,7 +52,7 @@ body::-webkit-scrollbar-thumb:hover {
 }
 .loading h1 {
   font-weight: 400;
-  font-size: 100px;
+  font-size: 80px;
   text-align: center;
 }
 .spacer {
